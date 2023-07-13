@@ -1,1 +1,1 @@
-First read me
+shell_permissions

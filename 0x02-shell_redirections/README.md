@@ -1,1 +1,1 @@
-readme file for shell redirections
+0x02 shell redirections
